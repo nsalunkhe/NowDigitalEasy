@@ -1,0 +1,17 @@
+.favorite-post-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .remove-from-favorite {
+    margin-left: 10px;
+  }
+  h3{
+    font-weight: 500;
+  }

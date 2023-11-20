@@ -1,0 +1,41 @@
+.post-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .post-title {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
+  
+  .add-to-favorite {
+    margin-left: 8px;
+  }
+  .pagination{
+    width:30%;
+    margin: auto;margin-top: 50px;
+    font-size:xx-large;
+    align-items: center;
+  }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  h2{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  
+
+  
+ 
+  
